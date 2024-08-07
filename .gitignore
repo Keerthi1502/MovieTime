@@ -1,0 +1,18 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.xcscheme
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Carthage
+Carthage/
+
+# Other
+*.DS_Store
+*.swp
