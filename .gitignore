@@ -2,7 +2,6 @@
 build/
 DerivedData/
 *.xcuserstate
-*.xcworkspace
 *.xcuserdata
 *.xcscheme
 
